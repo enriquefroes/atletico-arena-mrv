@@ -1,0 +1,26 @@
+adversario,jogos,vitorias,empates,derrotas,gols_pro,gols_contra,pontos,aproveitamento
+Flamengo,5,0,1,4,3,11,1,6.7
+Palmeiras,3,0,1,2,2,9,1,11.1
+Juventude,2,0,2,0,0,0,2,33.3
+Tombense,2,0,2,0,1,1,2,33.3
+Cruzeiro,8,3,2,3,10,10,11,45.8
+Bahia,3,1,2,0,5,2,5,55.6
+Fortaleza,3,1,2,0,7,5,5,55.6
+América-MG,2,1,1,0,3,1,4,66.7
+Botafogo,2,1,1,0,2,1,4,66.7
+Cienciano,2,1,1,0,3,1,4,66.7
+Corinthians,2,1,1,0,2,1,4,66.7
+Cuiabá,2,1,1,0,2,1,4,66.7
+Vitória,2,1,1,0,4,3,4,66.7
+Internacional,3,2,0,1,4,3,6,66.7
+Grêmio,4,3,0,1,9,4,9,75.0
+Bragantino,3,2,1,0,7,3,7,77.8
+Santos,3,2,1,0,7,3,7,77.8
+São Paulo,3,2,1,0,3,1,7,77.8
+Athletico-PR,2,2,0,0,3,1,6,100.0
+Caracas,2,2,0,0,7,1,6,100.0
+Ceará,2,2,0,0,3,1,6,100.0
+Mirassol,2,2,0,0,4,1,6,100.0
+Sport,2,2,0,0,5,1,6,100.0
+Vasco,3,3,0,0,9,1,9,100.0
+Fluminense,4,4,0,0,10,3,12,100.0
