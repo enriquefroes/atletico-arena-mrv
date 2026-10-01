@@ -147,12 +147,7 @@ Nos jogos decisivos, a coluna `confronto` indica se o Atlético avançou, inclus
 └── tabelas/     CSVs com os resultados de cada análise
 ```
 
-## Próximos passos
 
-- [ ] Atualizar a cada jogo na Arena (a começar pelo recorde de invencibilidade)
-- [ ] Comparar com o desempenho como visitante
-- [ ] Comparar com os últimos anos no Mineirão
-- [ ] Incluir o público de cada jogo
 
 ---
 
